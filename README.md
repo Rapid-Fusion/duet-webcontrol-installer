@@ -14,13 +14,13 @@ A complete automated installer for DuetWebControl + Nginx proxy configuration, o
 ./install-dwc.sh 192.168.1.100
 
 # Quick install via curl (if hosted)
-curl -sSL https://raw.githubusercontent.com/[USERNAME]/duet-webcontrol-installer/main/quick-install.sh | bash -s -- 192.168.1.100
+curl -sSL https://raw.githubusercontent.com/Rapid-Fusion/duet-webcontrol-installer/main/quick-install.sh | bash -s -- 192.168.1.100
 ```
 
 ### Download and Run
 ```bash
 # Clone this repository
-git clone https://github.com/[USERNAME]/duet-webcontrol-installer.git
+git clone https://github.com/Rapid-Fusion/duet-webcontrol-installer.git
 cd duet-webcontrol-installer
 
 # Make executable and run
@@ -167,8 +167,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/[USERNAME]/duet-webcontrol-installer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/[USERNAME]/duet-webcontrol-installer/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Rapid-Fusion/duet-webcontrol-installer/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Rapid-Fusion/duet-webcontrol-installer/discussions)
 - **DuetWebControl**: [Duet3D Forum](https://forum.duet3d.com/)
 
 ## 🙏 Acknowledgments
